@@ -30,16 +30,6 @@ to detail, clean layouts, and modern interfaces.
 
 ---
 
-# 📂 Repository Structure
-
-| Project | Description |
-|---------|-------------|
-| Ecommerce UI | Car selling app design |
-| Dashboard UI | Analytics dashboard |
-| Mobile App | Modern mobile concept |
-
----
-
 # 👤 Connect with Me
 
 ## Meet Darji
